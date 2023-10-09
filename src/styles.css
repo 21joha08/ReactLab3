@@ -90,8 +90,12 @@ body {
 }
 
 #restart {
-  background-color: red;
+  background-color: grey;
+}
 
+#restart:hover {
+  background-color: red;
+  cursor: pointer;
 }
 
 .square {
